@@ -1,0 +1,2 @@
+# aicode
+Activity modules
